@@ -8,11 +8,19 @@ def generate_random_quote():
         quote = data[0]['q']
         author = data[0]['a']
 
-        return (f'Random Quote: \n {quote} \n Author: {author}')
+        output = []
+        output.append(quote) 
+        output.append(author)
+        return output
 
     else:
         return (f'Failed to fetch a quote (Status Code {response.status_code})')
 
+def main():
+    pass 
 
+
+if __name__ == "__main__":
+    main()
 
 
