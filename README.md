@@ -3,10 +3,15 @@
 # Test Projects
 
 ## Built with
-* [![Python][python-img]][python-url]
-* [![Flask][flask-img]][flask-url]
-* HTML and CSS
 
+<div style="text-align: center;">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ### Description
 
@@ -18,15 +23,6 @@ This can be from basic to advance projects and the scope of the projects may var
 The challenge was started in September 13, 2024. If I missed a project, the number of projects that I need to do in a day will increase (based on the number of days that I missed). So good luck to me.
 
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[python-img][https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png]
-[python-url][https://www.python.org/]
-
-[flask-img][https://static-00.iconduck.com/assets.00/flask-icon-399x512-v0hqbifs.png]
-[flask-url][https://flask.palletsprojects.com/en/3.0.x/]
