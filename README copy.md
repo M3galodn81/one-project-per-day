@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# One Project Per Day
+# Test Projects
 
 ## Built with
 
@@ -23,11 +23,10 @@ This can be from basic to advance projects and the scope of the projects may var
 The challenge was started in September 13, 2024. If I missed a project, the number of projects that I need to do in a day will increase (based on the number of days that I missed). So good luck to me.
 
 <!-- Update -->
-### All Projects
-| Time | Project           |
-| ---- | ----------------- |
-| [Day 1] | [Download File Organizer](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%201%5D%20Download%20File%20Organizer) |
-| [Day 2] | [Random Quote Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%202%5D%20Random%20Quote%20Generator) |
-| [Day 3] | [README Content Updater](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%203%5D%20README%20Content%20Updater) |
 
-<p align="right"><a href="#readme-top">(back to top)</a></p>
+
+<p align="right">
+
+<a href="#readme-top">(back to top)</a>
+
+</p>
