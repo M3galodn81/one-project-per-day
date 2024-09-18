@@ -9,18 +9,18 @@ with open(bad_word_path,'r') as file:
     lines = file.readlines()
 
 for line in lines:
+    line.strip()
     bad_word_list.append(line)
 
 
 def censor_check(word):
-    if word in bad_word_list:
+    if word.lower() in bad_word_list:
+        print("yes")
         return True
     
     for letter in word:
         if (letter in string.digits) or (letter in string.punctuation):
             for bad_word in bad_word_list:
-            #check length of word
-                
                 if len(bad_word) == len(word):
                     if bad_word[0] == word[0] and bad_word[-1] == word[-1]:
                         print(word, "is flagged")
