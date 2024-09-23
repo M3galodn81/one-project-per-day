@@ -1,0 +1,9 @@
+STA file format
+
+[File Name]
+
++ Key (Name)
+- Value
+
+= END
+
