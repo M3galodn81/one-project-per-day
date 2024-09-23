@@ -30,5 +30,10 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 2] | [Random Quote Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%202%5D%20Random%20Quote%20Generator) |
 | [Day 3] | [README Content Updater](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%203%5D%20README%20Content%20Updater) |
 | [Day 4] | [Basic Flask Project File Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%204%5D%20Basic%20Flask%20Project%20File%20Generator) |
+| [Day 5] | [Basic Profanity Filter](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%205%5D%20Basic%20Profanity%20Filter) |
+| [Day 6] | [Password Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%206%5D%20Password%20Generator) |
+| [Day 7] | [Word Guessing Game](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%207%5D%20Word%20Guessing%20Game) |
+| [Day 8] | [Custom File Format](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%208%5D%20Custom%20File%20Format) |
+| [Day 9] | [Slot Machine](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%209%5D%20Slot%20Machine) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
