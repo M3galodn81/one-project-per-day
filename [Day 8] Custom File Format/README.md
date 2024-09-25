@@ -1,3 +1,3 @@
 # Custom File Format
 
-Make a 
+This folder contains a python script where it encodes data into a .sta file and extracts data from the .sta file
