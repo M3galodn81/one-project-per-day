@@ -55,3 +55,5 @@ for line_number, line in enumerate(lines, start=1):
 
 with open(md_path,'w') as file:
     file.writelines(keep_contents)
+
+print("The README file is updated")
