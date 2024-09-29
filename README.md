@@ -20,7 +20,7 @@ This repository is a self-imposed challenge to me (M3galodon) where I will built
 This can be from basic to advance projects and the scope of the projects may vary from time to time.
 
 #### INFORMATION and DISCLAIMER
-The challenge was started in September 13, 2024. If I missed a project, the number of projects that I need to do in a day will increase (based on the number of days that I missed). So good luck to me.
+The challenge was started in September 13, 2024. If I missed a project, the number of projects that I need to do in a day will increase (based on the number of days that I missed). So good luck to me. 
 
 <!-- Update -->
 ### All Projects
@@ -41,5 +41,6 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 13] | [QR Code Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2013%5D%20QR%20Code%20Generator) |
 | [Day 14] | [Asyncio](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2014%5D%20Asyncio) |
 | [Day 15] | [Project Folder Maker](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2015%5D%20Project%20Folder%20Maker) |
+| [Day 16] | [Basic Tkinter Application](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2016%5D%20Basic%20Tkinter%20Application) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
