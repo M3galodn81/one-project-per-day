@@ -45,5 +45,7 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 17] | [Basic Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2017%5D%20Basic%20Calculator) |
 | [Day 18] | [Countdown Timer](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2018%5D%20Countdown%20Timer) |
 | [Day 19] | [Basic Dashboard](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2019%5D%20Basic%20Dashboard) |
+| [Day 20] | [One-Line Password Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2020%5D%20One-Line%20Password%20Generator) |
+| [Day 21] | [One-Line Palindrome Checker](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2021%5D%20One-Line%20Palindrome%20Checker) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
