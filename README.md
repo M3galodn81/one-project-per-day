@@ -42,5 +42,8 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 14] | [Asyncio](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2014%5D%20Asyncio) |
 | [Day 15] | [Project Folder Maker](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2015%5D%20Project%20Folder%20Maker) |
 | [Day 16] | [Basic Tkinter Application](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2016%5D%20Basic%20Tkinter%20Application) |
+| [Day 17] | [Basic Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2017%5D%20Basic%20Calculator) |
+| [Day 18] | [Countdown Timer](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2018%5D%20Countdown%20Timer) |
+| [Day 19] | [Basic Dashboard](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2019%5D%20Basic%20Dashboard) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>

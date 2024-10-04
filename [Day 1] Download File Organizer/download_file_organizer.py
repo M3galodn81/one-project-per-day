@@ -81,5 +81,9 @@ for file_path in os.listdir(main_directory):
     except UnicodeEncodeError:
         print(f"Error encoding file: {file_path}")
 
+    except FileExistsError:
+        print(f"{file_path} already exists. Will skip moving the file.")
+        continue
+
 print("All the files are in the folders")
 
