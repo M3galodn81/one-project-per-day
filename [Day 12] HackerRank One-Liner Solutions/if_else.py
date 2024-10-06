@@ -13,9 +13,8 @@
 # 1 <= n <= 100
 
 if __name__ == '__main__':
-    n = int(input().strip())
-    print("Weird") if (n % 2 == 1) or (n in range(6,21)) else print("Not Weird")
-
+    print("Weird" if (n:=int(input().strip())) or (n in range(6,21)) else "Not Weird" )
+    
 # n = 
 # if n % 2 == 1:
 #         print("Weird")
