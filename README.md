@@ -49,5 +49,6 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 21] | [One-Line Palindrome Checker](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2021%5D%20One-Line%20Palindrome%20Checker) |
 | [Day 22] | [One-Line Fibonacci Sequence](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2022%5D%20One-Line%20Fibonacci%20Sequence) |
 | [Day 23] | [Curzon Numbers](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2023%5D%20Curzon%20Numbers) |
+| [Day 24] | [Basic Quiz App](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2024%5D%20Basic%20Quiz%20App) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>

@@ -1,0 +1,29 @@
+[
+    {
+        "question": "An IP address is a numeric quantity that identifies ...",
+        "answer": "A network adapter to other devices on the network",
+        "fake_answers": [
+            "the manufacturer of a computer",
+            "the physical location of a computer",
+            "a router that separates the internal and external networks and provides basic security functions."
+        ]
+    },
+    {
+        "question": "Which device is used to connect multiple devices on a network?",
+        "answer": "Router",
+        "fake_answers": [
+            "Modem",
+            "Switch",
+            "Hub"
+        ]
+    },
+    {
+        "question": "What is the primary function of DNS?",
+        "answer": "Translate domain names to IP addresses",
+        "fake_answers": [
+            "Translate IP addresses to domain names",
+            "Provide web hosting services",
+            "Encrypt internet connections"
+        ]
+    }
+]
