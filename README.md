@@ -52,5 +52,6 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 24] | [Basic Quiz App](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2024%5D%20Basic%20Quiz%20App) |
 | [Day 25] | [Unit Converter](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2025%5D%20Unit%20Converter) |
 | [Day 26] | [Validate IP Address](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2026%5D%20Validate%20IP%20Address) |
+| [Day 27] | [Quantitative Forecasting](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2027%5D%20Quantitative%20Forecasting) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
