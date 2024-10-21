@@ -54,5 +54,10 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 26] | [Validate IP Address](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2026%5D%20Validate%20IP%20Address) |
 | [Day 27] | [Quantitative Forecasting](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2027%5D%20Quantitative%20Forecasting) |
 | [Day 28] | [Linked List](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2028%5D%20Linked%20List) |
+| [Day 29] | [Valid Parentheses](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2029%5D%20Valid%20Parentheses) |
+| [Day 30] | [CHUNITHM Rating Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2030%5D%20CHUNITHM%20Rating%20Calculator) |
+| [Day 31] | [Roman to Integer](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2031%5D%20Roman%20to%20Integer) |
+| [Day 32] | [Collatz Conjecture Checker](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2032%5D%20Collatz%20Conjecture%20Checker) |
+| [Day 33] | [ASCII to Base64](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2033%5D%20ASCII%20to%20Base64) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
