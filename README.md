@@ -62,5 +62,7 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 34] | [Prime Number Checker](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2034%5D%20Prime%20Number%20Checker) |
 | [Day 35] | [Quadratic Equation Solver](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2035%5D%20Quadratic%20Equation%20Solver) |
 | [Day 36] | [Tertis 7-Bag Randomizer](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2036%5D%20Tertis%207-Bag%20Randomizer) |
+| [Day 37] | [2D Array Address Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2037%5D%202D%20Array%20Address%20Calculator) |
+| [Day 38] | [Basic Configuration Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2038%5D%20Basic%20Configuration%20Generator) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
