@@ -64,5 +64,8 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 36] | [Tertis 7-Bag Randomizer](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2036%5D%20Tertis%207-Bag%20Randomizer) |
 | [Day 37] | [2D Array Address Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2037%5D%202D%20Array%20Address%20Calculator) |
 | [Day 38] | [Basic Configuration Generator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2038%5D%20Basic%20Configuration%20Generator) |
+| [Day 39] | [Simple Interest Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2039%5D%20Simple%20Interest%20Calculator) |
+| [Day 40] | [Compound Interest Forumula](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2040%5D%20Compound%20Interest%20Forumula) |
+| [Day 41] | [Bubble Sort](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2041%5D%20Bubble%20Sort) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
