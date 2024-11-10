@@ -67,5 +67,6 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 39] | [Simple Interest Calculator](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2039%5D%20Simple%20Interest%20Calculator) |
 | [Day 40] | [Compound Interest Forumula](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2040%5D%20Compound%20Interest%20Forumula) |
 | [Day 41] | [Bubble Sort](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2041%5D%20Bubble%20Sort) |
+| [Day 42] | [Selection Sort](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2042%5D%20Selection%20Sort) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
