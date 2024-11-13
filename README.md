@@ -68,5 +68,8 @@ The challenge was started in September 13, 2024. If I missed a project, the numb
 | [Day 40] | [Compound Interest Forumula](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2040%5D%20Compound%20Interest%20Forumula) |
 | [Day 41] | [Bubble Sort](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2041%5D%20Bubble%20Sort) |
 | [Day 42] | [Selection Sort](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2042%5D%20Selection%20Sort) |
+| [Day 43] | [Logging](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2043%5D%20Logging) |
+| [Day 44] | [Threading Test](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2044%5D%20Threading%20Test) |
+| [Day 45] | [Tic-Tac-Toe](https://github.com/M3galodn81/one-project-per-day/tree/main/%5BDay%2045%5D%20Tic-Tac-Toe) |
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>

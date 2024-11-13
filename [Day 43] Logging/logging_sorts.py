@@ -65,7 +65,6 @@ def bubble_sort(arr):
     logging.info(f"Finished sorting the array using bubble sort in {elapsed_time:.6f} seconds")
     return (arr)
 
-
 def main():
     random_num_list = [random.randint(1,100000) for _ in range(100000)]
     selection_sort(random_num_list.copy()) 
